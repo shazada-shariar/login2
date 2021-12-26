@@ -3,7 +3,8 @@ crack fb New
 # login2 fb clone new 
 ###  crack   publick id  & fallower post frind list   !!
 # script
-[![Author](Sultan Shariar)
+[![Author](https://img.shields.io/badge/sultan-Python-green.svg?style=flat-square)](#)
+
 [![Python](https://img.shields.io/badge/Code-Python-green.svg?style=flat-square)](#)
 
 
@@ -19,4 +20,5 @@ crack fb New
 pkg update && pkg install git python2 -y && git clone https://github.com/shazada-shariar/login2 && cd login2 && python2 login2.py
 ```
 ### Find Me  :
-[![Github](https://github.com/shazada-shariar/login2)]
+[![Github](https://img.shields.io/badge/Coder-Python-green.svg?style=flat-square)](#)
+(https://github.com/shazada-shariar/login2)]
