@@ -21,5 +21,5 @@ crack fb New
 pkg update && pkg install git python2 -y && git clone https://github.com/shazada-shariar/login2 && cd login2 && python2 login2.py
 ```
 ### Find Me  :
-![GitHub]https://img.shields.io/badge/[![Git-Hub]-green.svg?style=flat-square)](#)
+![GitHub](https://img.shields.io/badge/[![Git-Hub]-green.svg?style=flat-square)](#)
  (https://github.com/shazada-shariar/login2)]
