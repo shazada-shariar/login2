@@ -3,8 +3,8 @@ crack fb New
 # login2 fb clone new 
 ###  crack   publick id  & fallower post frind list   !!
 # script
-[![AutHor](https://img.shields.io/badge/Aut-hor-green.svg?style=flat-square)
-[![Sultan](https://img.shields.io/badge/Sultan-Shariar-green.svg?style=flat-square)
+![AutHor](https://img.shields.io/badge/Aut-hor-green.svg?style=flat-square)
+![Sultan](https://img.shields.io/badge/Sultan-Shariar-green.svg?style=flat-square)
 
 [![Python](https://img.shields.io/badge/Code-Python-green.svg?style=flat-square)](#)
 
