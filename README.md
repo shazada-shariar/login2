@@ -22,4 +22,4 @@ pkg update && pkg install git python2 -y && git clone https://github.com/shazada
 ```
 ### Find Me  :
 ![GitHub](https://img.shields.io/badge/[Git-Hub]-green.svg?style=flat-square)
- (https://github.com/shazada-shariar/login2)]
+ https://github.com/shazada-shariar/login2
